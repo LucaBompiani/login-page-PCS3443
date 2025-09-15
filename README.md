@@ -2,6 +2,8 @@
 
 Um sistema simples de autenticação de usuários baseado em FastAPI com interface web.
 
+Desenvolvido por Luca Bompiani e João Luiz Giglio Laudissi
+
 ## Funcionalidades
 
 - Cadastro e login de usuários
