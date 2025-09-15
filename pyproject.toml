@@ -1,0 +1,21 @@
+[project]
+name = "atividade1"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "bcrypt>=3.2.0,<4.0.0",
+    "python-dotenv>=0.9.9",
+    "email-validator>=2.3.0",
+    "fastapi>=0.116.1",
+    "jose>=1.0.0",
+    "passlib>=1.7.4",
+    "pydantic>=2.11.9",
+    "pydantic-settings>=2.10.1",
+    "python-jose[cryptography]>=3.5.0",
+    "python-multipart>=0.0.20",
+    "sqlalchemy>=2.0.43",
+    "psycopg2-binary>=2.9.9",
+    "uvicorn>=0.30.0",
+]
